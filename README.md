@@ -1,125 +1,96 @@
-D-BAD  SOFTWARE LICENSE
-Version 1.1 — "Don't Be A DOOS" Edition
+# 🛡️ The D-BAD License (v1.1)
+### "Don't Be A DOOS" Edition
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[![License: D-BAD](https://img.shields.io/badge/License-D--BAD%20v1.1-brightgreen.svg)](LICENSE)
+[![Version](https://img.shields.io/badge/version-1.1-blue.svg)](CHANGELOG)
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
 
-PLAIN-ENGLISH SUMMARY (Not Legally Binding)
+> **Be curious. Be competent. Be kind. And seriously — DON'T BE A DOOS.**
 
-Good people: welcome, enjoy, build cool things ❤️
-Bad people: we see you, we don't like you, and we won't protect you.
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 📖 What is this?
 
-1. GRANT OF PERMISSION
+The **D-BAD License** is an ethical source license designed for developers who want to share their work freely with good people, while explicitly withholding permission from bad actors.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to use,
-copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
-the Software, subject to the terms below.
+It combines the permissive freedom of licenses like **MIT** with a moral clause inspired by South African slang and common sense.
 
-You are trusted by default.
+- **D-BAD** = **D**on't **B**e **A** **D**OOS (For the good guys)
+- **B-BAD** = **B**eing **A** **D**OOS, **D**eliberately (For the bad guys)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 🎯 The Philosophy
 
-2. D-BAD SECTION — FOR THE GOOD GUYS
+Standard open-source licenses grant permissions to *everyone*, regardless of intent. The D-BAD License operates on a **Trust but Verify** model:
 
-D-BAD = Don't Be A DOOS
-("DOOS" being South African slang for a cunt / general human malfunction.)
+1.  **Good Faith:** If you are building cool things, helping people, or making money honestly, you have full permission. You are trusted by default.
+2.  **Bad Faith:** If you are scamming, harassing, building malware, or being harmful, you are not welcome. The license offers you no protection.
 
-If you are acting in good faith — meaning you are not deliberately harming
-others, lying, scamming, stalking, exploiting, or being a general DOOS — then:
+## 🚀 How to Use This License
 
-• You are welcome here
-• You may use the Software freely
-• You may build commercial or non-commercial things
-• You will receive the full benefit of this licence
-• You are assumed to have a functioning conscience
+If you want to license your own project under D-BAD:
 
-Thank you for not being awful. We genuinely appreciate you.
+1.  **Copy the License:** Save the [`LICENSE`](LICENSE) file in the root of your repository.
+2.  **Update Copyright:** Change the year and copyright holder name at the bottom of the license file.
+3.  **Add a Badge:** (Optional) Add the badge to your project README to let users know what they're dealing with.
+4.  **Header:** Optionally add a short header to your source files:
+    ```text
+    // Licensed under D-BAD v1.1 — Don't Be A DOOS.
+    // Copyright (c) [Year] [Your Name]
+    ```
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## ❓ Frequently Asked Questions
 
-3. B-BAD SECTION — FOR THE BAD ACTORS
+### Is this OSI Approved?
+**No.** This is a custom ethical license. It is not compatible with strict corporate legal frameworks that require OSI-approved licenses (like MIT, Apache, GPL). Use with caution in enterprise environments.
 
-B-BAD = Being A DOOS, Deliberately
+### Can I use this for commercial projects?
+**Yes.** If you are acting in good faith, you may use, modify, and sell software under this license.
 
-If you use this Software for intentionally harmful, deceptive, abusive, or
-illegal purposes, including (but not limited to):
+### What happens if I violate the license?
+You lose the rights granted by the license. Additionally, the author reserves the right to publicly disassociate from your project and call out your behaviour (without doxxing or threats).
 
-• Fraud, scams, or impersonation
-• Harassment, coercion, or surveillance
-• Malware, spyware, or covert data abuse
-• Deliberate violations of applicable law
+### Is this legal advice?
+**Absolutely not.** I am not a lawyer. This is a community-driven license text. If you need enforceable legal protection, consult an attorney.
 
-Then the following applies:
+## ⚖️ Legal Disclaimer
 
-1. You are no longer welcome.
-2. This licence does not protect you.
-3. Any harm you cause is entirely your responsibility.
+This software is provided **"AS IS"**. While the license attempts to distinguish between good and bad actors, enforceability may vary by jurisdiction. The author is not liable for any damages arising from the use of this software or license.
 
-The author:
+## 🤝 Contributing to the License
 
-• Will not actively hunt you down
-• Will not run surveillance or targeted investigations
+Want to suggest improvements to the license text itself?
 
-However…
+1.  Fork the repo.
+2.  Create a branch (`feature/better-wording`).
+3.  Submit a Pull Request.
+4.  **Don't be a DOOS** in the issues tab.
 
-The author reserves the right to publicly criticise, disassociate from, or
-describe (as opinion) the behaviour of parties who are credibly shown to be
-acting as B-BADs.
+## 📜 Version History
 
-This may include:
+| Version | Codename | Notes |
+| :--- | :--- | :--- |
+| 1.0 | Initial Release | The first draft. |
+| 1.1 | Don't Be A DOOS | Clarified B-BAD section, added plain-English summary. |
 
-• Public statements of disapproval
-• Withdrawal of support or acknowledgement
-• Clear moral judgement of conduct
+## 📬 Contact & Credits
 
-This is not a promise of fairness, neutrality, or politeness.
+**Created by:** [Your Name / Organization]  
+**Website:** [beachy.co.za](https://beachy.co.za)  
+**Location:** Born 970m from Meiringspoort • Tested by baboons 🐒
 
-If you behave like a DOOS, you may be described as such.
+---
 
-(No doxxing. No threats. No lies presented as fact. Just opinion and consequences.)
+### 🧭 Summary
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+| Permission | Good Actors | Bad Actors |
+| :--- | :---: | :---: |
+| Use Commercially | ✅ | ❌ |
+| Modify | ✅ | ❌ |
+| Distribute | ✅ | ❌ |
+| Liability Protection | ✅ | ❌ |
+| Welcome Here | ❤️ | 🚫 |
 
-4. NO WARRANTY
+---
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-
-In no event shall the authors or copyright holders be liable for any claim,
-damages or other liability, whether in an action of contract, tort or otherwise,
-arising from, out of or in connection with the software or the use or other
-dealings in the software.
-
-Including but not limited to:
-• "It worked yesterday"
-• "It worked on my machine"
-• "I assumed it would do the right thing"
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-5. ATTRIBUTION
-
-If you redistribute the Software or substantial portions of it, you must
-include this licence and retain attribution to the original author(s).
-
-You don't need to praise us.
-Just don't erase us.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-6. FINAL WORD
-
-Be curious.
-Be competent.
-Be kind.
-
-And seriously —
-DON'T BE A DOOS.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Copyright © 2026 beachy.co.za
-Oracle of Absurdity — Born 970m from Meiringspoort • Tested by baboons
+*Copyright © 2026 beachy.co.za*  
+*Licensed under D-BAD v1.1*
